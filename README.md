@@ -1,0 +1,1 @@
+Readme for lab1 Ruby Rudyk Maksym IST-22-1
